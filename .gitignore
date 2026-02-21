@@ -1,0 +1,4 @@
+program.out
+.pytest_cache/
+__pycache__/
+.venv/
